@@ -1,1 +1,1 @@
-add (5, 5)
+function add(a, b)
